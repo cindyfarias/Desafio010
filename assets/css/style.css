@@ -1,0 +1,15 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.bigote_nav{
+	background-color: #000;
+}
+
+.bigote_logo{
+	max-width: 100px;
+}
+
+.bigote_nav_link{
+	color: #fff !important;
+}
