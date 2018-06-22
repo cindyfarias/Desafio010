@@ -13,3 +13,50 @@ body{
 .bigote_nav_link{
 	color: #fff !important;
 }
+
+.bigote_head{
+	width: 100%;
+	padding: 0;
+}
+
+.bigote_head_title{
+	color: #fff;
+	position: absolute;
+	top: 60%;
+	text-align: center;
+}
+
+.bigote_head_title h2{
+	font-family: 'Playfair Display', serif;
+	font-size: 4em;
+	font-weight: 900;
+	font-style: italic;
+}
+
+.bigote_head_icon{
+	text-align: center;
+	color: #fff;
+	position: absolute;
+	top: 90%;
+}
+
+.bigote_notice{
+	padding-top: 30px;
+}
+
+.bigote_notice_inner{
+	float: left
+}
+
+.bigote_notice_inner_icon{
+	border-radius: 50px;
+	padding: 10px;
+	border:1px solid #ccc;
+}
+
+.bigote_notice_inner_date{
+	font-size: 13px;
+	margin-bottom: 0;
+
+padding-top: 10px;
+}
