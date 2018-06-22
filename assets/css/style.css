@@ -22,7 +22,7 @@ body{
 .bigote_head_title{
 	color: #fff;
 	position: absolute;
-	top: 60%;
+	top: 35%;
 	text-align: center;
 }
 
@@ -59,4 +59,43 @@ body{
 	margin-bottom: 0;
 
 padding-top: 10px;
+}
+
+.bigote_notice_inner_content{
+	padding-top: 40px
+}
+
+.bigote_notice_inner_share_icon{
+	background-color: #808080;
+	border-radius: 50px;
+	padding: 10px;
+	color: #fff;
+	margin-right: 10px;
+}
+
+.bigote_notice_inner_share{
+	padding: 20px 0;
+}
+
+.bigote_notice_inner_share_icon span{
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.bigote_separator{
+	border:1px solid #ccc;
+}
+
+.bigote_separator_icon{
+	color: #777;
+	border-radius: 50px;
+	border:1px solid #ccc;
+	padding:15px;
+	position: absolute;
+	position: absolute;
+	top: 97%;
+	right: 50%;
+	background: #fff;
 }
